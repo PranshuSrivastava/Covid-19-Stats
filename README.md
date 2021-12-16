@@ -6,4 +6,5 @@ It provides you with information like the total number of cases in your area, to
 ## Installing on your local computer
 Clone the repository using git:
 'git clone https://github.com/PranshuSrivastava/Covid-19-Stats.git'
+
 Open the file in your web browser to use.
